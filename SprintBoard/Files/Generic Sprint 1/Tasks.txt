@@ -1,0 +1,22 @@
+StoryNumber,TaskNumber,TaskDescription,UserId's,TimeLeft,TimeTaken,Column
+1,1,Generic Task 1 For Story 1,0,1,0,1
+1,2,Generic Task 2 For Story 1,0,1,0,1
+2,1,Generic Task 2 For Story 2,0,2,0,1
+3,1,Generic Task 1 For Story 3,0,2,0,1
+3,2,Generic Task 3 For Story 3,0,5,0,1
+3,3,Generic Task 3 For Story 3,0,7,0,1
+3,4,Generic Task 4 For Story 3,0,21,0,1
+3,5,Generic Task 5 For Story 3,0,21,0,1
+3,6,Generic Task 6 For Story 3,0,5,0,1
+3,7,Generic Task 7 For Story 3,0,3,0,1
+3,8,Generic Task 8 For Story 3,0,9,0,1
+4,1,Generic Task 1 For Story 4,0,14,0,1
+4,2,Generic Task 2 For Story 4,0,4,0,1
+4,3,Generic Task 3 For Story 4,0,7,0,1
+4,4,Generic Task 4 For Story 4,0,7,0,1
+5,1,Generic Task 1 For Story 5,0,1,0,1
+5,2,Generic Task 2 For Story 5,0,1,0,1
+6,1,Generic Task 1 For Story 6,0,2,0,1
+6,2,Generic Task 2 For Story 6,0,2,0,1
+7,1,Generic Task 1 For Story 7,0,1,0,1
+7,2,Generic Task 2 For Story 7,0,7,0,1

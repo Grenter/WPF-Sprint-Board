@@ -1,0 +1,8 @@
+StoryNumber,StoryDescription,StoryPoints,Colour
+1,Generic Story 1 in Generic Sprint 2,1,LightSkyBlue
+2,Generic Story 2 in Generic Sprint 2,1,LightSkyBlue
+3,Generic Story 3 in Generic Sprint 2,8,LightSkyBlue
+4,Generic Story 4 in Generic Sprint 2,5,LightSkyBlue
+5,Generic Story 5 in Generic Sprint 2,1,LightSkyBlue
+6,Generic Story 6 in Generic Sprint 2,3,LightSkyBlue
+7,Generic Story 7 in Generic Sprint 2,1,LightSkyBlue
